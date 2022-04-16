@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @catalingarea
+- 👋 Hi, I’m Catalin Garea
 - 👀 I’m interested in SAP ABAP & C# programming language
 - 🌱 I’m currently learning SAP ABAP 
 
