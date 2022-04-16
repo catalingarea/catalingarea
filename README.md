@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catalingarea
-- 👀 I’m interested in SAP ABAP 
-- 🌱 I’m currently learning SAP ABAP
+- 👀 I’m interested in SAP ABAP & C# programming
+- 🌱 I’m currently learning SAP ABAP 
 
 
 
